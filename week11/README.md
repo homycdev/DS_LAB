@@ -6,7 +6,7 @@
 
 ![](https://i.imgur.com/93qXAhC.png)
 
-## First spam bit
+## First attempt to spam
 
 ### rs.status() output
 ```jsonld=
@@ -226,7 +226,7 @@
 ```
 
 
-## After removing VPS with primary mongodb  instance
+## Removing VPS with primary mongoDB instance
 ### rs.status() output
 ```jsonld=
 {
